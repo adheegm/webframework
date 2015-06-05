@@ -1,0 +1,26 @@
+{
+	"post" : 
+	[
+		{
+			"id" : 1,
+			"date_post" : "8 March 2015",
+			"author" : "Adi Winata",
+			"title" : "First Post", 
+			"content" : "Testing Content"
+		},
+		{
+			"id" : 2,
+			"date_post" : "21 April 2015",
+			"author" : "Adi Winata",
+			"title" : "Kartini's Day", 
+			"content" : "Today is Kartini's day"
+		},
+		{
+			"id" : 3,
+			"date_post" : "16 Mei 2015",
+			"author" : "Adi Winata",
+			"title" : "Special Day", 
+			"content" : "Today is special day for me."
+		}
+	]
+}

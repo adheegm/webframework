@@ -1,0 +1,22 @@
+{
+	"site_ver" : "1.0.0.0",
+	"settings" : 
+	[
+		{
+			"site" : 
+			{
+				"name" : "adi winata",
+				"address" : "http://www.adiwinata.com",
+				"author" : [{"id" : 1, "name" : "Adi Winata", "title" : "owner"}]
+			}
+		},
+		{
+			"framework" : 
+			{
+				"controller" : "controllers",
+				"model" : "models",
+				"view" : "views"
+			}
+		}
+	]		
+}

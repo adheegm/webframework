@@ -1,0 +1,30 @@
+{	
+	"menu":
+	[
+		{
+			"id" : 1,
+			"parrent" : "root",
+			"text" : "Home",
+			"link" : "/"
+		},
+		{
+			"id" : 2,
+			"parrent" : "root",
+			"text" : "Lib",
+			"link" : "/Lib"
+		},
+		{
+			"id" : 3,
+			"parrent" : "root",
+			"text" : "Lang",
+			"link" : "/Lang"
+		},
+		{
+			"id" : 4,
+			"parrent" : "root",
+			"text" : "About",
+			"link" : "/About"
+		}
+	]	
+	
+}
