@@ -5,6 +5,5 @@
 	require 'class/index.php';
 	require 'models/index.php';
 	require 'controllers/index.php';
-	require 'views/index.php';
-				
+	require 'views/index.php';				
 ?>
