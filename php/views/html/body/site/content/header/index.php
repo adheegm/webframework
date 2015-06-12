@@ -12,3 +12,6 @@
 		<h3>Just share</h3>
 	</div>
 </div>
+<?php
+	echo file_get_contents($__JSON_FOLDER__."/menu.json");	
+?>
