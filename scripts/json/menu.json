@@ -5,7 +5,7 @@
 			"id" : 1,
 			"parrent" : "root",
 			"text" : "Home",
-			"link" : "/"
+			"link" : "#"
 		},
 		{
 			"id" : 2,

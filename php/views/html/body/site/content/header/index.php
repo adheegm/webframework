@@ -1,10 +1,12 @@
 <div id="header">
 	<div class="menu">
 		<ul>
-			<li><a href="#">Home</a></li>
-			<li><a href="#">Lib</a></li>
-			<li><a href="#">Lang</a></li>
-			<li><a href="#">About</a></li>
+		<?php
+			$jsonData = json_decode(file_get_contents($__JSON_FOLDER__."/menu.json"), true);
+			foreach($jsonData['menu'] as $row){
+				echo '<li><a href="'.$row['link'].'">'.$row['text'].'</a></li>';
+			}
+		?>
 		</ul>
 	</div>
 	<div id="slogan">
@@ -12,6 +14,3 @@
 		<h3>Just share</h3>
 	</div>
 </div>
-<?php
-	echo file_get_contents($__JSON_FOLDER__."/menu.json");	
-?>
