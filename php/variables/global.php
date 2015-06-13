@@ -11,7 +11,7 @@
 	$GLOBALS['__DATABASE__PASSWORD__'] = "client_1234";
 	
 	/*json data location*/
-	$GLOBALS['__JSON_FOLDER__'] = "scripts/json";
+	$GLOBALS['__JSON__FOLDER__'] = "scripts/json";
 	
 	/*framework*/
 	$GLOBALS['__SCRIPT__'] = "php/script";

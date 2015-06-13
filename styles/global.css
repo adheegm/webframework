@@ -36,7 +36,7 @@ body{
 .menu ul li
 {
 	padding:3px 8px;
-	margin:0;
+	margin:3px;
 	display:inline;
 	background-color:#6D8ED2;
 }
