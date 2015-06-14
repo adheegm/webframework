@@ -3,4 +3,5 @@
 <?php
 	require 'site/index.php';
 ?>
+<script type="text/javascript" src="scripts/index.js" ></script>
 </body>

@@ -1,5 +1,5 @@
 {	
-	"menu":
+	"main_menu_left":
 	[
 		{
 			"id" : 1,
@@ -25,6 +25,26 @@
 			"text" : "About",
 			"link" : "/About"
 		}
+	],
+	"main_menu_right":
+	[
+		{
+			"id" : 1,
+			"parrent" : "root",
+			"text" : "Facebook",
+			"link" : "#"
+		},
+		{
+			"id" : 2,
+			"parrent" : "root",
+			"text" : "Twitter",
+			"link" : "#"
+		},
+		{
+			"id" : 3,
+			"parrent" : "root",
+			"text" : "Contact",
+			"link" : "#"
+		}
 	]	
-	
 }

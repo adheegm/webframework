@@ -1,22 +1,18 @@
-<?php $jsonData = json_decode(file_get_contents($__JSON__FOLDER__."/menu.json"), true); ?>
+<!--<?php $jsonData = json_decode(file_get_contents($__JSON__FOLDER__."/menu.json"), true); ?>-->
 <div id="header">
 	<div class="menu">
-		<ul style="float:left;">
-		<?php
-			foreach($jsonData['menu'] as $row){
+		<ul class="float-left" id="main-menu-left">
+		<!--<?php
+			foreach($jsonData['main_menu_left'] as $row){
 				echo '<li><a href="'.$row['link'].'">'.$row['text'].'</a></li>';
 			}
-		?>
+		?>-->
 		</ul>
-		<ul style="float:right">
-			<li><a href="#">Facebook</a></li>
-			<li><a href="#">Twitter</a></li>
-			<li><a href="#">Contact</a></li>
-		</ul>
+		<ul class="float-right" id="main-menu-right"></ul>
 	</div>
-	<div style="clear:both;"/>
+	<div class="clear-both"/>
 	<div id="slogan">
-		<h1>Hai!! :) Welcome to my site</h1>
-		<h3>Just share</h3>
+		<h1 class="site-owner">Adi Winata's Site</h1>
+		<h3 class="site-measure">Share Everythings</h3>
 	</div>
 </div>
