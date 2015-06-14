@@ -10,7 +10,7 @@
 		</ul>
 		<ul class="float-right" id="main-menu-right"></ul>
 	</div>
-	<div class="clear-both"/>
+	<div class="clear-both"></div>
 	<div id="slogan">
 		<h1 class="site-owner">Adi Winata's Site</h1>
 		<h3 class="site-measure">Share Everythings</h3>

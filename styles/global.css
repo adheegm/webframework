@@ -35,6 +35,8 @@ body{
 }
 #header{
 	padding: 0;
+	border-bottom: 1px solid #cecece;
+	line-height: 2.6233889493em;
 }
 .menu ul
 {
@@ -61,7 +63,16 @@ body{
 	font-size:16px;
 }
 #footer{
-	font-size:12px;
 	display:block;
 	text-align:center;
+}
+.site-address{	
+	font-size:13px;
+	background-color:#6D8ED2;
+	padding: 3px 8px;
+	color: #fff;
+	text-decoration: none;
+}
+.site-address:hover{
+	text-decoration: underline;
 }
