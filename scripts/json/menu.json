@@ -18,12 +18,6 @@
 			"parrent" : "root",
 			"text" : "Lang",
 			"link" : "/Lang"
-		},
-		{
-			"id" : 4,
-			"parrent" : "root",
-			"text" : "About",
-			"link" : "/About"
 		}
 	],
 	"main_menu_right":
@@ -32,7 +26,7 @@
 			"id" : 1,
 			"parrent" : "root",
 			"text" : "Facebook",
-			"link" : "#"
+			"link" : "https://www.facebook.com/adheegm"
 		},
 		{
 			"id" : 2,
@@ -41,7 +35,7 @@
 			"link" : "#"
 		},
 		{
-			"id" : 3,
+			"id" : 4,
 			"parrent" : "root",
 			"text" : "Contact",
 			"link" : "#"
