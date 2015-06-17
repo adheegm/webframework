@@ -5,7 +5,7 @@
 			"id" : 1,
 			"parrent" : "root",
 			"text" : "Home",
-			"link" : "#"
+			"link" : "/"
 		},
 		{
 			"id" : 2,
@@ -38,7 +38,7 @@
 			"id" : 4,
 			"parrent" : "root",
 			"text" : "Contact",
-			"link" : "#"
+			"link" : "/Contact"
 		}
 	]	
 }

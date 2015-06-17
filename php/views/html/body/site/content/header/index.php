@@ -17,8 +17,8 @@
 		</ul>		
 		<div class="clear-both"></div>
 	</div>
-	<div id="text-head">
+	<div id="text-head" class="border">
 		<h1 class="site-owner">Adi Winata's Site</h1>
-		<h3 class="site-measure">Share Everythings</h3>
+		<h3 class="site-measure">Share Everythings, just share</h3>
 	</div>
 </div>

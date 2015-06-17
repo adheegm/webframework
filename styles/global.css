@@ -23,9 +23,25 @@ body{
 .float-right{
 	float: right;
 }
+.border{
+	border: 1px solid #cecece;
+}
+.border-top{
+	border-top: 1px solid #cecece;
+}
+.border-bottom{	
+	border-bottom: 1px solid #cecece;
+}
+.border-top-bottom{
+	border-top: 1px solid #cecece;
+	border-bottom: 1px solid #cecece;
+}
 #site{
 	padding: 0;
 	margin: 0;
+}
+#text-head{
+	padding: 2px 6px;
 }
 #page-wrap{
 	margin:0 auto;
@@ -35,7 +51,6 @@ body{
 }
 #header{
 	padding: 0;
-	border-bottom: 1px solid #cecece;
 	line-height: 2.6233889493em;
 }
 .menu ul
@@ -59,8 +74,13 @@ body{
 {
 	text-decoration:underline;
 }
+.site-measure{
+	font-size: 16px;
+	color: gray;
+}
 #section{
 	font-size:16px;
+	margin: 2px 0;
 }
 #footer{
 	display:block;
