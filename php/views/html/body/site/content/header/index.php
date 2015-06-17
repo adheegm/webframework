@@ -1,5 +1,5 @@
 <?php $jsonData = json_decode(file_get_contents($__JSON__FOLDER__."/menu.json"), true); ?>
-<div id="header">
+<div id="header" class="margin-bottom-4">
 	<div class="menu">
 		<ul class="float-left" id="main-menu-left">
 		<?php

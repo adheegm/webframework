@@ -5,8 +5,8 @@
 body{
 	background-color:#f1f1f1;
 	font-family: 'Gudea', sans-serif;
-	font-size:14px;
-	line-height:2.1432698em;
+	font-size:13px;
+	line-height:1.8432698em;
 }
 .clear-both{
 	clear: both;
@@ -36,12 +36,22 @@ body{
 	border-top: 1px solid #cecece;
 	border-bottom: 1px solid #cecece;
 }
+.margiin-top-4{
+	margin-top: 4px;
+}
+.margin-bottom-4{
+	margin-bottom: 4px;
+}
+.margin-top-bottom-4{
+	margin: 4px 0;
+}
 #site{
 	padding: 0;
 	margin: 0;
 }
 #text-head{
 	padding: 2px 6px;
+	background-color: #f1f1f1;
 }
 #page-wrap{
 	margin:0 auto;
@@ -53,15 +63,21 @@ body{
 	padding: 0;
 	line-height: 2.6233889493em;
 }
-.menu ul
-{
+.menu{
+	
+}
+.menu ul{
 	list-style-type: none;
 	display:block;
 }
-.menu ul li
-{
+.menu #main-menu-left li{
+	margin-right:4px;
+}
+.menu #main-menu-right li{
+	margin-left: 4px;
+}
+.menu ul li{
 	padding:3px 8px;
-	margin:3px;
 	display:inline;
 	background-color:#6D8ED2;
 }
@@ -80,16 +96,16 @@ body{
 }
 #section{
 	font-size:16px;
-	margin: 2px 0;
+	background-color: #f1f1f1;
 }
 #footer{
 	display:block;
 	text-align:center;
 }
 .site-address{	
+	display: block;
 	font-size:13px;
 	background-color:#6D8ED2;
-	padding: 3px 8px;
 	color: #fff;
 	text-decoration: none;
 }
