@@ -32,7 +32,13 @@
 			"id" : 2,
 			"parrent" : "root",
 			"text" : "Twitter",
-			"link" : "#"
+			"link" : "https://www.twitter.com/adheegm"
+		},
+		{
+			"id" : 3,
+			"parrent" : "root",
+			"text" : "Youtube",
+			"link" : "http://www.youtube.com/user/adheegm"
 		},
 		{
 			"id" : 4,

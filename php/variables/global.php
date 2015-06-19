@@ -14,7 +14,7 @@
 	$GLOBALS['__JSON__FOLDER__'] = "scripts/json";
 	
 	/*framework*/
-	$GLOBALS['__SCRIPT__'] = "php/script";
+	$GLOBALS['__SCRIPT__'] = "scripts";
 	$GLOBALS['__STYLES__ '] = "styles";
 	$GLOBALS['__CONTROLLER__'] = "php/controller";
 	$GLOBALS['__VIEW__'] = "php/views";

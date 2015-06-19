@@ -1,26 +1,33 @@
 {
-	"post" : 
+	"post": 
 	[
 		{
 			"id" : 1,
 			"date_post" : "8 March 2015",
 			"author" : "Adi Winata",
 			"title" : "First Post", 
-			"content" : "Testing Content"
+			"content" : "<p>This is my first post for my own personal website. This website is just only to share everything what i know, my hobbies that is computer programming language and music. <p>My name is Adi Winata, i working as a .net software developer on <a href=\"http://www.gibeon.co.id\">PT. Gibeon Solutions</a>. I would love to do all programming language, open source, and 3D programming. Javascript is a powerfull code programming language and i am very exited with it.</p> <p>Besides that, i love music. I playing guitar when i was secondary hight schools. I love blues music like black blues, jimi hendrix, ZZ Top, Stevie Ray Vaughn, Johnny Winter and Ritchie Kotzen also. My favourits band are Mr. Big and Extreme.</p>"
 		},
 		{
 			"id" : 2,
 			"date_post" : "21 April 2015",
 			"author" : "Adi Winata",
 			"title" : "Kartini's Day", 
-			"content" : "Today is Kartini's day"
+			"content" : "Today is Kartini's day."
 		},
 		{
 			"id" : 3,
 			"date_post" : "16 Mei 2015",
 			"author" : "Adi Winata",
 			"title" : "Special Day", 
-			"content" : "Today is special day for me."
+			"content" : "Today is special day. It's to be hard for me to find .."
+		},
+		{
+			"id" : 4,
+			"date_post" : "17 Juni 2015",
+			"author" : "Adi Winata",
+			"title" : "Marhaban Ya Ramadhan", 
+			"content" : "Today are first night for ramadhan. We are all tarawih to night. Really happy :)"
 		}
 	]
 }
