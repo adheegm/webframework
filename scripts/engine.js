@@ -1,4 +1,4 @@
-var engine = {
+var eg = {
 	initialize: function(){
 		//initialize website script
 	},
