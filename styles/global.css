@@ -2,138 +2,174 @@
 	margin:0;
 	padding:0;
 }
+
 a{
 	color:#6D8ED2;
 	text-decoration: none;
 }
+
 a:hover{
 	text-decoration: underline;
 }
+
 body{
 	background-color:#f1f1f1;
 	font-family: 'Gudea', sans-serif;
 	font-size:13px;
 	line-height:1.8432698em;
 }
+
 .clear-both{
 	clear: both;
 }
+
 .clear-left{
 	clear: left;
 }
+
 .clear-right{
 	clear: right;
 }
+
 .float-left{
 	float: left;
 }
+
 .float-right{
 	float: right;
 }
+
 .border{
 	border: 1px solid #cecece;
 }
+
 .border-top{
 	border-top: 1px solid #cecece;
 }
+
 .border-bottom{	
 	border-bottom: 1px solid #cecece;
 }
+
 .border-top-bottom{
 	border-top: 1px solid #cecece;
 	border-bottom: 1px solid #cecece;
 }
+
 .margin-top-4{
 	margin-top: 4px;
 }
+
 .margin-bottom-4{
 	margin-bottom: 4px;
 }
+
 .margin-top-bottom-4{
 	margin: 4px 0;
 }
+
 .padding26{
 	padding: 2px 6px;
 }
+
 .padding46{
 	padding: 4px 6px;
 }
+
 #site{
 	padding: 0;
 	margin: 0;
 }
+
 #text-head{
 	
 }
+
 #page-wrap{
 }
+
 #header{
 	padding: 0;
 	line-height: 2.6233889493em;
 }
+
 .menu{
 	padding-left: 4px;
 	padding-right: 4px;
 	background-color:#6D8ED2;
 }
+
 .menu ul{
 	list-style-type: none;
 	display:block;
 }
+
 .menu #main-menu-left li{
 	margin-right:4px;
 }
+
 .menu #main-menu-right li{
 	margin-left: 4px;
 }
+
 .menu ul li{
 	padding:3px 8px;
 	display:inline;
 }
-.menu ul li a
-{
+
+.menu ul li a{
 	color:#fff;
 	text-decoration:none;
 }
-.menu ul li a:hover
-{
+
+.menu ul li a:hover{
 	text-decoration:underline;
 }
+
 .site-owner a:hover{
 	color: gray;
 	text-decoration: none;
 }
+
 .site-measure{
 	font-size: 16px;
 	color: gray;
 }
+
 #section{
 	margin-left: auto;
 	margin-right: auto;
 }
+
 .post-article{
 	background-color: #f1f1f1;
 }
+
 .post-attribute{
 	font-size: 11px;	
 	color: gray;
 }
+
 .post-content{
 	font-size: 14px;
 }
+
 .post-tag{
 	border-top: 1px dotted gray;
 }
+
 #footer{
 	display:block;
 	text-align:center;
 	background-color:#6D8ED2;
 }
+
 .site-address{	
 	font-size:13px;
 	color: #fff;
 	text-decoration: none;
 }
+
 .site-address:hover{
 	text-decoration: underline;
 }
