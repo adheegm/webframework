@@ -72,6 +72,14 @@ body{
 	padding: 2px 6px;
 }
 
+.block-part{
+	background-color: #fff;
+}
+
+.side-block{
+	padding: 2px 4px;
+}
+
 .padding46{
 	padding: 4px 6px;
 }
@@ -120,6 +128,7 @@ body{
 .menu ul li a{
 	color:#fff;
 	text-decoration:none;
+	font-weight: bold;
 }
 
 .menu ul li a:hover{
@@ -141,8 +150,18 @@ body{
 	margin-right: auto;
 }
 
+#side-content{
+    width: 280px;
+    margin-right: 4px;
+}
+
+#main-content{
+    margin-left: 4px;
+    overflow: auto;
+}
+
 .post-article{
-	background-color: #f1f1f1;
+	
 }
 
 .post-attribute{

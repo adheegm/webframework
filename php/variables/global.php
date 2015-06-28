@@ -2,7 +2,7 @@
 	/*must have*/
 	$GLOBALS['__SITE__TITLE__'] = "Adi Winata's Site";
 	$GLOBALS['__SITE__HOSTNAME__'] = "adiwinata";
-	$GLOBALS['__SITE__HOME__ADDRESS__'] = "http://www.adiwinata.com";
+	$GLOBALS['__SITE__HOME__ADDRESS__'] = "http://localhost/adiwinata";
 	
 	/*database settings*/
 	$GLOBALS['__DATABASE__SERVER__'] = "localhost";

@@ -1,5 +1,6 @@
 var eg = {
-	initialize: function(){
+	initialize: function () {
+        "use strict";
 		//initialize website script
 	},
 	gf: [{
