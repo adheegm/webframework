@@ -77,7 +77,26 @@ body{
 }
 
 .side-block{
-	padding: 2px 4px;
+	padding: 4px;
+}
+
+.side-header{
+    font-size: 16px;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.side-content{
+    margin-top: 4px;
+}
+
+#pp-img{
+    padding: 2px;
+    border: 1px solid #d3d3d3;
+    border-radius: 2px;
+    float: left;
+    margin-right: 4px;
+    margin-bottom: 4px;
 }
 
 .padding46{
@@ -151,7 +170,7 @@ body{
 }
 
 #side-content{
-    width: 280px;
+    width: 320px;
     margin-right: 4px;
 }
 

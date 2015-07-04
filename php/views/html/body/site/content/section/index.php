@@ -2,7 +2,19 @@
 <div id="section" class="margin-top-bottom-4 padding26">
 	<div id="side-content" class="float-left block-part">
         <div class="border side-block">
-            testing menu
+            <div class="side-header border-bottom">
+                <label>Profile</label>
+            </div>
+            <div class="side-content">
+                <img src="images/pp.jpg" width="80" id="pp-img"></img>
+                <p>
+                    Name: Adi Winata<br/>
+                    Skill: c#, asp.net, javascript, ajax<br/>
+                    Music: Blues & Rock<br/>
+                    Others: Science, 3D Programming
+                </p>
+                <div class="clear-both"></div>
+            </div>
         </div>
 	</div>
 	<div id="main-content">		
